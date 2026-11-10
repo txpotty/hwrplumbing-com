@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hwrplumbing.com/sitemap.xml
